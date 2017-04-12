@@ -1,0 +1,10 @@
+name: demo-test
+version: 0.1.0.0
+
+dependencies:
+  - base
+
+library:
+  source-dirs: .
+  exposed-modules:
+    - DemoTest
